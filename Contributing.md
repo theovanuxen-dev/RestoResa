@@ -13,8 +13,6 @@ RestoResa recherche des contributeurs pour :
 - Travailler sur l’interface ou l’accessibilité
 - Optimiser les performances
 
-
-
 Tous les profils sont les bienvenus, que tu sois débutant·e ou expérimenté·e. Le plus important, c’est l’envie de construire quelque chose de collaboratif et utile. 
 
 Comment contribuer ? telle est la question.
