@@ -12,7 +12,7 @@ Avant de cloner le projet, assure-toi d’avoir installé :
 - Git
 - Un éditeur de code (VS Code recommandé)
 - Un navigateur moderne type Google Chrome 
-- Une connexion internet fluide
+- Une connexion internet stable
 - Un ordinateur à jour
 
 Installation locale
