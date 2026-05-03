@@ -12,7 +12,7 @@ Avant de cloner le projet, assure-toi d’avoir installé :
 - Git
 - Un éditeur de code (VS Code recommandé)
 - Un navigateur moderne type Google Chrome 
-- Une connexion internet stable
+- Une connexion internet fluide
 
 Installation locale
 1. Clone le dépôt sur ta machine :
