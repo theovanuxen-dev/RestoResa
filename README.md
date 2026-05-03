@@ -13,7 +13,7 @@ Avant de cloner le projet, assure-toi d’avoir installé :
 - Un éditeur de code (VS Code recommandé)
 - Un navigateur moderne type Google Chrome 
 - Une connexion internet fluide
-
+- Un ordinateur à jour
 Installation locale
 1. Clone le dépôt sur ta machine :
 
